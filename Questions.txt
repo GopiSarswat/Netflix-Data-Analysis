@@ -1,0 +1,35 @@
+-- NETFLIX DATA ANALYSIS
+
+-- 15 problems and their solutions 
+
+-- 1. Count the number of Movies and TV Show
+
+-- 2. Find the most common rating for movie and TV Show 
+
+-- 3. List all the movies released in specific year (eg : 2020)
+
+-- 4. Find the top 10 country with most content 
+
+-- 5. identify the longest movie 
+
+-- 6. Find the content added in last 5 years
+
+-- 7. List all TV Shows with more than 5 seasons
+
+-- 8. Find all the movies/ TV Shows by director 'Rajiv Chilaka'!
+
+-- 9. Count the number of content items in each genre
+
+-- 10. List all the movies that are documentries
+
+-- 11. Find all content without director 
+
+-- 12. find how many movies actor 'Salman khan' appeared in last 10 years
+
+-- 13. find the top 10 actors who appeared in the higest number of movies produced in India 
+
+-- 14. Count how many movies are available per year of release
+ 
+-- 15. Find the top 5 directors with the most content on Netflix
+  
+
